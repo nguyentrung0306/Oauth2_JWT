@@ -1,0 +1,10 @@
+
+b	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8Ë™ÌûÔ.
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8…»şğÔ.
+ˆ
+java:S1128"kRemove this unused import 'com.talk2amareswaran.projects.springboot2authserver.config.OAuth2Configuration'.(èõí8…»şğÔ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥ùòê8õ€íûÔ.
